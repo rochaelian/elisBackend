@@ -1,0 +1,23 @@
+C:\Projects\CloudPatterns\src\DynamoDbDemo\bin\Debug\DynamoDbDemo.exe.config
+C:\Projects\CloudPatterns\src\DynamoDbDemo\bin\Debug\DynamoDbDemo.exe
+C:\Projects\CloudPatterns\src\DynamoDbDemo\bin\Debug\DynamoDbDemo.pdb
+C:\Projects\CloudPatterns\src\DynamoDbDemo\bin\Debug\AWSSDK.dll
+C:\Projects\CloudPatterns\src\DynamoDbDemo\bin\Debug\CloudPatterns.AWS.dll
+C:\Projects\CloudPatterns\src\DynamoDbDemo\bin\Debug\CloudPatterns.AWS.pdb
+C:\Projects\CloudPatterns\src\DynamoDbDemo\bin\Debug\AWSSDK.pdb
+C:\Projects\CloudPatterns\src\DynamoDbDemo\obj\Debug\DynamoDbDemo.csprojResolveAssemblyReference.cache
+C:\Projects\CloudPatterns\src\DynamoDbDemo\obj\Debug\DynamoDbDemo.exe
+C:\Projects\CloudPatterns\src\DynamoDbDemo\obj\Debug\DynamoDbDemo.pdb
+D:\Users\Elian\Desktop\Nueva carpeta\cloudpatterns-master\src\DynamoDbDemo\bin\Debug\DynamoDbDemo.exe.config
+D:\Users\Elian\Desktop\Nueva carpeta\cloudpatterns-master\src\DynamoDbDemo\bin\Debug\DynamoDbDemo.exe
+D:\Users\Elian\Desktop\Nueva carpeta\cloudpatterns-master\src\DynamoDbDemo\bin\Debug\DynamoDbDemo.pdb
+D:\Users\Elian\Desktop\Nueva carpeta\cloudpatterns-master\src\DynamoDbDemo\bin\Debug\AWSSDK.dll
+D:\Users\Elian\Desktop\Nueva carpeta\cloudpatterns-master\src\DynamoDbDemo\bin\Debug\CloudPatterns.AWS.dll
+D:\Users\Elian\Desktop\Nueva carpeta\cloudpatterns-master\src\DynamoDbDemo\bin\Debug\CloudPatterns.AWS.pdb
+D:\Users\Elian\Desktop\Nueva carpeta\cloudpatterns-master\src\DynamoDbDemo\bin\Debug\CloudPatterns.AWS.dll.config
+D:\Users\Elian\Desktop\Nueva carpeta\cloudpatterns-master\src\DynamoDbDemo\bin\Debug\AWSSDK.pdb
+D:\Users\Elian\Desktop\Nueva carpeta\cloudpatterns-master\src\DynamoDbDemo\obj\Debug\DynamoDbDemo.csprojAssemblyReference.cache
+D:\Users\Elian\Desktop\Nueva carpeta\cloudpatterns-master\src\DynamoDbDemo\obj\Debug\DynamoDbDemo.csproj.CoreCompileInputs.cache
+D:\Users\Elian\Desktop\Nueva carpeta\cloudpatterns-master\src\DynamoDbDemo\obj\Debug\DynamoDbDemo.csproj.CopyComplete
+D:\Users\Elian\Desktop\Nueva carpeta\cloudpatterns-master\src\DynamoDbDemo\obj\Debug\DynamoDbDemo.exe
+D:\Users\Elian\Desktop\Nueva carpeta\cloudpatterns-master\src\DynamoDbDemo\obj\Debug\DynamoDbDemo.pdb
